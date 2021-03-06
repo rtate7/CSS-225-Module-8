@@ -18,3 +18,10 @@ Soutions to CSS-225 Module 8 Exercise Problems
     - Task 2: Cook a meal – needs pan, groceries, cannot have small
 
     - Task 3: Write a book – needs pen, paper, idea, cannot have confusion
+
+## Solutions:
+1. is_equal.py
+2. sum_greater_than_ten.py
+3. is_five_in_list.py
+4. is_leap_year.py
+5. character_check.py

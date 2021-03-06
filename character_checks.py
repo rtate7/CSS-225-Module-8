@@ -17,7 +17,7 @@ import os
 os.system('cls' if os.name == 'nt' else 'clear')
 
 # test values for use in both approaches
-bob_items = ["pan", "paper", "idea", "rope", "Mittens of Bernie", "groceries"]
+bob_items = ["pan", "paper", "idea", "rope", "groceries"]
 bob_debuffs = ["slow"]
 climb_mountain_required_items = ["rope", "coat", "first aid kit"]
 climb_mountain_forbidden_debuffs = ["slow"]
